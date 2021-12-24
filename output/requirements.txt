@@ -1,0 +1,4 @@
+art==5.4
+moviepy==1.0.3
+pytube==11.0.2
+rich==10.16.1
